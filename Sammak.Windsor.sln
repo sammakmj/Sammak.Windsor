@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sammak.Windsor", "Sammak.Windsor\Sammak.Windsor.csproj", "{4CA94AAF-8777-436C-8E94-7C54797FF7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sammak.Windsor.Tests", "Sammak.Windsor.Tests\Sammak.Windsor.Tests.csproj", "{6CBCA0EF-3160-41A0-BBD8-474A5DFF0B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA94AAF-8777-436C-8E94-7C54797FF7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA94AAF-8777-436C-8E94-7C54797FF7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA94AAF-8777-436C-8E94-7C54797FF7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA94AAF-8777-436C-8E94-7C54797FF7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBCA0EF-3160-41A0-BBD8-474A5DFF0B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBCA0EF-3160-41A0-BBD8-474A5DFF0B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBCA0EF-3160-41A0-BBD8-474A5DFF0B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBCA0EF-3160-41A0-BBD8-474A5DFF0B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DED849-9BA5-4971-9756-D6B27D66C2B0}
+	EndGlobalSection
+EndGlobal
